@@ -22,7 +22,6 @@ class Home extends Component {
     ];
     const {
       add,
-      // eslint-disable-next-line no-unused-vars
       cart,
       amount, 
     } = this.props;
